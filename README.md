@@ -7,7 +7,7 @@ My name is Alex, I currently live in Luxembourg and I like to create integers
 - 💬 Ask me how to create integers
 - ⚡ Fun fact: I don't like integers at all 😂
 
-You are playing on the GommeHD.net server? Check [this](https://github.com/Lezurex/LabyCookies/) repository out.
+You are playing on the GommeHD.net server? Check out [this](https://github.com/Lezurex/LabyCookies/) repository.
 
 ---
 
