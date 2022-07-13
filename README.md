@@ -36,7 +36,7 @@ I started out as a Java developer for Minecraft plugins and now plan to become a
 
 **Miscellaneous**
 
-[![Arch Badge](https://img.shields.io/badge/-Arch-0f94d2?style=for-the-badge&labelColor=black&logo=archlinux&logoColor=0f94d2)](#) [![Prisma Badge](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&labelColor=black&logo=prisma&logoColor=2D3748)](#) [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)](#) 
+[![Arch Badge](https://img.shields.io/badge/-Arch-0f94d2?style=for-the-badge&labelColor=black&logo=archlinux&logoColor=0f94d2)](#) [![Prisma Badge](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&labelColor=black&logo=prisma&logoColor=2D3748)](#) [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)](#) [![Tailwind Badge](https://img.shields.io/badge/-Tailwindcss-06B6D4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4)](#)
 
 ---
 
