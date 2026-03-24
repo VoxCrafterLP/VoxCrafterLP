@@ -6,7 +6,6 @@ My name's Alex and I'm a student in Luxembourg 🇱🇺 <br>
 - <img src="https://github.com/VoxCrafterLP/VoxCrafterLP/raw/main/assets/golang.png" height=16 width=16/> Favorite programming language: Go
 - 📌 Trying to get into Rust
 - 🧅 I am running a [Tor relay](https://metrics.torproject.org/rs.html#details/2D938F19EAF660D902C656B5E6002F39B45C4BE4).
-- <img src="https://github.com/VoxCrafterLP/VoxCrafterLP/raw/main/assets/fpv.png" height=16 width=16/> I'm an FPV drone pilot
 
 
 ### My skills
